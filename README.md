@@ -5,7 +5,7 @@ It includes various dashboards, charts, data blending, and conditional formattin
 
 ## 🗂️ Repository Structure
 
-📁 Tableau/
+📁 Tableau/<br>
 ├── 📄 Global_Superstore.csv — Dataset used in multiple dashboards<br>
 ├── 📊 Book1.twb to Book6.twb — Miscellaneous dashboard experiments<br>
 ├── 📄 CA2.pdf — Report for a data visualization assignment<br>
