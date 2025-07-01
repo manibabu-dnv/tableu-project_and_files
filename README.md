@@ -6,21 +6,20 @@ It includes various dashboards, charts, data blending, and conditional formattin
 ## 🗂️ Repository Structure
 
 📁 Tableau/
-├── 📄 Global_Superstore.csv — Dataset used in multiple dashboards
-├── 📊 Book1.twb to Book6.twb — Miscellaneous dashboard experiments
-├── 📄 CA2.pdf — Report for a data visualization assignment
-├── 📷 CA3 project Data science Jobs salaries 2024.png — Dashboard snapshot
-├── 📄 Report CA3 data sciecne salaries dashboard.pdf — Final project report
-├── 📁 Individual TWB Projects:
-│ ├── actions.twb — Showcases dashboard action filters
-│ ├── blending.twb — Demonstrates data blending
-│ ├── Charts.twb / charts2.twb — Collection of chart types
-│ ├── conditional formatting.twb — Conditional formatting in Tableau
-│ ├── Data science Job salaries.twb — Analysis of job salaries in DS
-│ ├── font and colour.twb — Typography and color experiments
-│ ├── map india visualizaions.twb — Geographic visualizations on India
-│ ├── World Indicator analysis with dashboard.twb — Global KPIs dashboard
-
+├── 📄 Global_Superstore.csv — Dataset used in multiple dashboards<br>
+├── 📊 Book1.twb to Book6.twb — Miscellaneous dashboard experiments<br>
+├── 📄 CA2.pdf — Report for a data visualization assignment<br>
+├── 📷 CA3 project Data science Jobs salaries 2024.png — Dashboard snapshot<br>
+├── 📄 Report CA3 data sciecne salaries dashboard.pdf — Final project report<br>
+├── 📁 Individual TWB Projects:<br>
+│ ├── actions.twb — Showcases dashboard action filters<br>
+│ ├── blending.twb — Demonstrates data blending<br>
+│ ├── Charts.twb / charts2.twb — Collection of chart types<br>
+│ ├── Conditional formatting.twb — Conditional formatting in Tableau<br>
+│ ├── Data science Job salaries.twb — Analysis of job salaries in DS<br>
+│ ├── font and colour.twb — Typography and color experiments<br>
+│ ├── map india visualizaions.twb — Geographic visualizations on India<br>
+│ ├── World Indicator analysis with dashboard.twb — Global KPIs dashboard<br>
 
 ## 📌 Highlights
 
